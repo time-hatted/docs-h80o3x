@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-a0g4ti.pulaucuansite.sbs/sitemap.xml
